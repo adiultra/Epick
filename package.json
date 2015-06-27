@@ -1,7 +1,7 @@
 {
   "name": "epick-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple theme with vibrant colors for spacegray-ui",
   "keywords": [
     "syntax",

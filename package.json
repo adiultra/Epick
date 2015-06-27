@@ -1,0 +1,16 @@
+{
+  "name": "epick-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A simple theme with vibrant colors for spacegray-ui",
+  "keywords": [
+    "syntax",
+    "theme",
+    "spacegray"
+  ],
+  "repository": "https://github.com/adiultra/epick-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
